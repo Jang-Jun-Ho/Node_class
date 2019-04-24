@@ -1,0 +1,23 @@
+{
+  "name": "be",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+<<<<<<< HEAD
+=======
+    "jsonwebtoken": "^8.5.1",
+>>>>>>> ea8c468bd097704c8ea3dd39e0a7d83f335356be
+    "mongoose": "^5.5.2",
+    "morgan": "~1.9.0",
+    "port": "^0.8.1",
+    "pug": "2.0.0-beta11"
+  }
+}
